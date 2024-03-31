@@ -8,12 +8,11 @@ body {
 }
 
 .container-navbar {
-    background-color:blue;
+    background-color:rgba(210, 214, 214, 0.294);
     width: 100%;
 }
 
 .ul-navbar {
-    background-color: #9a1818;
     width: 30%;
     height: 100px;
 
