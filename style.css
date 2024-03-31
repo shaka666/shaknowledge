@@ -19,6 +19,7 @@ body {
 }
 
 .li-navbar {
+    display: flex;
     width: 200px;
     list-style: none;
     border: .5px solid black;
