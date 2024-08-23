@@ -20,7 +20,7 @@ body {
 }
 
 .li-navbar {
-    width: 200px;
+    width: 100px;
     list-style: none;
     border: .5px solid black;
 }
