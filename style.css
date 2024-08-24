@@ -10,7 +10,7 @@
     nav {
         background-color: rgb(118, 122, 120);
         display: flex;
-        justify-content: center;
+        justify-content: space-between;
         padding: 1rem;
     }
 
