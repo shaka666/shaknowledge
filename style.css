@@ -15,7 +15,11 @@
     nav ul {
         display: flex;
         list-style: none;
+        align-items: center;
+        gap: 1rem;
     }
     nav ul li a {
         text-decoration: none;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #191919;
     }
