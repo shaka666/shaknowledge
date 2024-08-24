@@ -19,6 +19,7 @@
         list-style: none;
         align-items: center;
         gap: 1rem;
+        padding: 50px 50px;
     }
     nav ul li a {
         text-decoration: none;
