@@ -19,11 +19,11 @@
         list-style: none;
         align-items: center;
         gap: 1rem;
+        justify-content: center;
     }
     nav ul li a {
         text-decoration: none;
         font-family: sans-serif;
         color: #191919;
         text-align: center;
-        justify-items: center;
     }
