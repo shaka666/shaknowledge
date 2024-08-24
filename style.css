@@ -4,10 +4,11 @@
     box-sizing: border-box;
 }
     body {
-        background-color: salmon;
+        background-color: rgb(255, 255, 255);
     }
+
     nav {
-        background-color: aqua;
+        background-color: rgb(118, 122, 120);
         display: flex;
     }
 
