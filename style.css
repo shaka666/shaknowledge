@@ -11,6 +11,7 @@
         background-color: rgb(118, 122, 120);
         display: flex;
         justify-content: space-between;
+        align-items: center;
         padding: 1rem;
     }
 
@@ -18,7 +19,6 @@
         display: flex;
         list-style: none;
         align-items: center;
-        justify-content: center;
         gap: 1rem;
     }
     nav ul li a {
