@@ -10,3 +10,7 @@
         background-color: aqua;
         display: flex;
     }
+
+    nav ul {
+        display: flex;
+    }
