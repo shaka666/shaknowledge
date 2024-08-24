@@ -10,7 +10,6 @@
     nav {
         background-color: rgb(118, 122, 120);
         display: flex;
-        justify-content: space-evenly;
         padding: 1rem;
     }
 
@@ -19,6 +18,7 @@
         list-style: none;
         align-items: center;
         gap: 1rem;
+        justify-items: center;
     }
     nav ul li a {
         text-decoration: none;
