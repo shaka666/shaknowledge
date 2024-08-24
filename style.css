@@ -18,7 +18,7 @@
         list-style: none;
         align-items: center;
         gap: 1rem;
-        justify-items: center;
+        justify-content: center;
     }
     nav ul li a {
         text-decoration: none;
